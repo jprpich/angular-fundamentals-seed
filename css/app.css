@@ -76,3 +76,11 @@ h4 {
   font-weight: 300;
   margin: 0;
 }
+
+/* custom joshua styles */
+h1 {
+  color: teal;
+}
+div {
+  color: orange;
+}
